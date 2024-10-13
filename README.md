@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Enase's GitHub stats](https://github-readme-stats-enases-projects.vercel.app/api?username=Enase)](https://github.com/Enase/github-readme-stats)
+
 <!--
 **Enase/Enase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
