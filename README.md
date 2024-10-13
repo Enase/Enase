@@ -1,5 +1,5 @@
 
-# Welcome to my Profile! 👋
+# Welcome to my Profile! 👋 [![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
 Hi, I'm a software engineer with a strong background in both open-source and proprietary software development.
 I specialize in designing scalable SaaS and serverless solutions that drive business results.
